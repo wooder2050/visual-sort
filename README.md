@@ -1,8 +1,8 @@
 # Visualized Sort Algorithm
 
-![](display.gif)
-
 ![](display2.gif)
+
+![](display.gif)
 
 ## Installation
 
